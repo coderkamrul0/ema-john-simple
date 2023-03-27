@@ -15,3 +15,7 @@
 .cart-position{
     position: fixed;
 }
+
+.cart-heading{
+    text-align: center;
+}
